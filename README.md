@@ -1,4 +1,4 @@
-# _Microservices and Cloud Computing: Architecting Scalable, Secure, and Resilient Applications_
+# _Microservices and Cloud Computing: Architecting and Implementing Scalable, Secure, and Resilient Applications_
 
 ---
 
